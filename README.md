@@ -1,2 +1,2 @@
-# Java_Number_Guessing_Game
+# Java Number Guessing Game
 Extra Credit Project for CSC 1302
