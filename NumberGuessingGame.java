@@ -56,7 +56,7 @@ public class NumberGuessingGame {
 				tries++;
 			}
 			System.out.println("You number is: "+finalNum+"!");
-			System.out.println("Number or tries: "+tries);
+			System.out.println("Number of tries: "+tries);
 			
 		}
 
